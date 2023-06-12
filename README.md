@@ -9,7 +9,7 @@ Le répertoire du projet est organisé comme suit :
 - `KICAD/`: Ce dossier contient tous les fichiers de projets KiCad.
 - `KICAD/empreintes/`: Ce sous-dossier contient toutes les empreintes personnalisées utilisées dans les projets KiCad.
 - `Datasheets/`: Ce dossier contient les fiches techniques de tous les composants utilisés dans ce projet.
-- `STM32/`: Ce dossier contient tous les fichiers de code relatifs aux capteurs, écrits pour la plate-forme STM32.
+- `TMC/AS5600`: Ce dossier contient tous les fichiers de code relatifs aux capteurs, écrits pour la plate-forme STM32.
 
 ## Prérequis
 
