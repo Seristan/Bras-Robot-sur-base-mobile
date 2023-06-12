@@ -7,7 +7,7 @@ Ce projet consiste en un contrôleur de stepper pour un bras robotisé, utilisan
 Le répertoire du projet est organisé comme suit :
 
 - `KICAD/`: Ce dossier contient tous les fichiers de projets KiCad.
-- `KICAD/footprints/`: Ce sous-dossier contient toutes les empreintes personnalisées utilisées dans les projets KiCad.
+- `KICAD/empreintes/`: Ce sous-dossier contient toutes les empreintes personnalisées utilisées dans les projets KiCad.
 - `Datasheets/`: Ce dossier contient les fiches techniques de tous les composants utilisés dans ce projet.
 - `STM32/`: Ce dossier contient tous les fichiers de code relatifs aux capteurs, écrits pour la plate-forme STM32.
 
@@ -23,7 +23,7 @@ Pour utiliser ce projet, vous devez avoir installé les outils suivants :
 1. Clonez ce dépôt sur votre machine locale.
 2. Ouvrez les fichiers de projet KiCad dans `KICAD/`.
 3. Consultez les fiches techniques dans `Datasheets/` pour comprendre le fonctionnement des composants.
-4. Ouvrez et modifiez les fichiers de code du capteur dans `STM32/` selon vos besoins.
+4. Ouvrez et modifiez les fichiers de code du capteur/driver dans `TMC/AS5600` selon vos besoins.
 
 ## Contribution
 
